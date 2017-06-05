@@ -1,5 +1,5 @@
 
-Mon Jun  5 21:47:59 UTC 2017
+Mon Jun  5 22:51:54 UTC 2017
 
 
   ---------------------------------------------------
@@ -275,5 +275,6 @@ ODDS and ENDS
 
      bash $ head -1 ~/.bash_history     # does pretty much the same thing
 
+STATUS: proofread to line 55.  22:52z 05 JUN
 
 EOF
